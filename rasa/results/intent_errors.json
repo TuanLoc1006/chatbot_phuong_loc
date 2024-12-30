@@ -1,0 +1,378 @@
+[
+  {
+    "text": "tuyênr sinh chính quy đaij học",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.4579330384731293
+    }
+  },
+  {
+    "text": "tuyển sih chính quy đại học",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.6044784784317017
+    }
+  },
+  {
+    "text": "tuyênr sinh chính quy liene thông",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.5612666606903076
+    }
+  },
+  {
+    "text": "tuyênr sinh chính quy sao ddai học",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.4980171024799347
+    }
+  },
+  {
+    "text": "tuyển sih chính quy sao đại học",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.5687523484230042
+    }
+  },
+  {
+    "text": "tuyển sih chính quy sau dh",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.5638645887374878
+    }
+  },
+  {
+    "text": "tuyển sih chính quy sau đh",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.488206148147583
+    }
+  },
+  {
+    "text": "đào tạo sau dh",
+    "intent": "ask_quy_trinh_tuyen_sinh_dh_lt_sdh",
+    "intent_prediction": {
+      "name": "ask_tuyen_sinh_dh_sdh_lt",
+      "confidence": 0.4329488277435303
+    }
+  },
+  {
+    "text": "Có các hoạt động thể thao nào mà trường tổ chức không",
+    "intent": "ask_hoat_dong_ngoai_khoa",
+    "intent_prediction": {
+      "name": "ask_hoat_dong_the_thao_cho_sv",
+      "confidence": 0.5101527571678162
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia vào các hoạt động tình nguyện không",
+    "intent": "ask_hoat_dong_ngoai_khoa",
+    "intent_prediction": {
+      "name": "ask_dang_ky_ctrinh_tinh_nguyen",
+      "confidence": 0.3032923638820648
+    }
+  },
+  {
+    "text": "Trường có các hoạt động nâng cao kỹ năng mềm cho sinh viên không",
+    "intent": "ask_hoat_dong_ngoai_khoa",
+    "intent_prediction": {
+      "name": "ask_to_chuc_khoa_ki_nang_mem",
+      "confidence": 0.4707554578781128
+    }
+  },
+  {
+    "text": "Trường có chương trình trao đổi sinh viên với các trường khác không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.4449012577533722
+    }
+  },
+  {
+    "text": "Có những trường nào mà sinh viên có thể trao đổi với nhau không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.41972118616104126
+    }
+  },
+  {
+    "text": "Trường có các chương trình hợp tác trao đổi sinh viên quốc tế không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.4880432188510895
+    }
+  },
+  {
+    "text": "Có tổ chức nào hỗ trợ sinh viên trong việc trao đổi không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_ho_tro_hoc_phi_svien_quocte",
+      "confidence": 0.2909815311431885
+    }
+  },
+  {
+    "text": "Sinh viên có thể đi học tại nước khác thông qua chương trình trao đổi không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.44682493805885315
+    }
+  },
+  {
+    "text": "Sinh viên có thể tìm hiểu về chương trình trao đổi ở đâu",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.3669690191745758
+    }
+  },
+  {
+    "text": "Trường có chương trình học nào kết hợp với trao đổi sinh viên không",
+    "intent": "ask_trao_doi_sinh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_trao_doi_sv",
+      "confidence": 0.44438454508781433
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia vào các dự án nghiên cứu trong bệnh viện lớn không",
+    "intent": "ask_co_hoi_thuc_tap_benh_vien",
+    "intent_prediction": {
+      "name": "ask_hop_tac_nghien_cuu_vs_benh_vien",
+      "confidence": 0.4105221927165985
+    }
+  },
+  {
+    "text": "Trường có cho phép sinh viên tham gia vào nghiên cứu không",
+    "intent": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+    "intent_prediction": {
+      "name": "ask_co_hoi_nghien_cuu_sv_ctump",
+      "confidence": 0.32314062118530273
+    }
+  },
+  {
+    "text": "Có thông tin gì về việc đăng ký tham gia dự án nghiên cứu không",
+    "intent": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+    "intent_prediction": {
+      "name": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+      "confidence": 0.31149476766586304
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia vào các nghiên cứu của giảng viên không",
+    "intent": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+    "intent_prediction": {
+      "name": "ask_nghien_cuu_vs_GV_ctump",
+      "confidence": 0.2644471228122711
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia các dự án nghiên cứu từ năm thứ mấy",
+    "intent": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+    "intent_prediction": {
+      "name": "ask_sinh_vien_nghien_cuu_tu_nam_nao",
+      "confidence": 0.300563782453537
+    }
+  },
+  {
+    "text": "Trường có tổ chức các buổi giới thiệu dự án nghiên cứu cho sinh viên không",
+    "intent": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+    "intent_prediction": {
+      "name": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+      "confidence": 0.3240467309951782
+    }
+  },
+  {
+    "text": "Sinh viên cần chuẩn bị gì để tham gia các dự án nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.2822934091091156
+    }
+  },
+  {
+    "text": "Trường có thông tin gì về cách tham gia vào dự án nghiên cứu của giảng viên không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_nghien_cuu_vs_GV_ctump",
+      "confidence": 0.3188423216342926
+    }
+  },
+  {
+    "text": "Có các yêu cầu gì để sinh viên có thể tham gia vào các dự án nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.314879447221756
+    }
+  },
+  {
+    "text": "Sinh viên có thể tìm kiếm thông tin về dự án nghiên cứu ở đâu",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.3157637119293213
+    }
+  },
+  {
+    "text": "Sinh viên có thể liên hệ với giảng viên qua hình thức nào để tham gia nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_nghien_cuu_vs_GV_ctump",
+      "confidence": 0.339053213596344
+    }
+  },
+  {
+    "text": "Sinh viên có thể nhận được chứng nhận khi tham gia vào dự án nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.34342214465141296
+    }
+  },
+  {
+    "text": "Trường có cung cấp tài liệu nào để sinh viên nghiên cứu trước khi tham gia không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.3128010034561157
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia vào các nhóm nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.301259845495224
+    }
+  },
+  {
+    "text": "Sinh viên có thể đóng góp ý kiến cho các dự án nghiên cứu không",
+    "intent": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.32368355989456177
+    }
+  },
+  {
+    "text": "Có chương trình nào dành cho sinh viên thực tập tại các bệnh viện hợp tác không",
+    "intent": "ask_hop_tac_nghien_cuu_vs_benh_vien",
+    "intent_prediction": {
+      "name": "ask_benh_vien_lien_ket_voi_truong",
+      "confidence": 0.2567727863788605
+    }
+  },
+  {
+    "text": "Trường có nhận được sự công nhận nào từ các tổ chức quốc tế không",
+    "intent": "ask_thanh_tuu_cua_truong",
+    "intent_prediction": {
+      "name": "ask_truong_co_to_chuc_su_kien_qte",
+      "confidence": 0.3139883279800415
+    }
+  },
+  {
+    "text": "Sinh viên có cơ hội tham gia các dự án nghiên cứu không",
+    "intent": "ask_co_hoi_nghien_cuu_sv_ctump",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.30774790048599243
+    }
+  },
+  {
+    "text": "Sinh viên có thể tham gia vào các nghiên cứu của giảng viên không",
+    "intent": "ask_co_hoi_nghien_cuu_sv_ctump",
+    "intent_prediction": {
+      "name": "ask_nghien_cuu_vs_GV_ctump",
+      "confidence": 0.2644471228122711
+    }
+  },
+  {
+    "text": "Trường có hỗ trợ sinh viên tham gia các dự án nghiên cứu không",
+    "intent": "ask_co_hoi_nghien_cuu_sv_ctump",
+    "intent_prediction": {
+      "name": "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc",
+      "confidence": 0.30876460671424866
+    }
+  },
+  {
+    "text": "Sinh viên có thể hợp tác với giảng viên trong các dự án nghiên cứu không",
+    "intent": "ask_co_hoi_nghien_cuu_sv_ctump",
+    "intent_prediction": {
+      "name": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+      "confidence": 0.2889460623264313
+    }
+  },
+  {
+    "text": "Có thông tin nào về các dự án nghiên cứu mà sinh viên có thể tham gia không",
+    "intent": "ask_nghien_cuu_vs_GV_ctump",
+    "intent_prediction": {
+      "name": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+      "confidence": 0.3117372989654541
+    }
+  },
+  {
+    "text": "Tôi có thể tham gia vào nghiên cứu ngay từ năm nhất không",
+    "intent": "ask_nghien_cuu_vs_GV_ctump",
+    "intent_prediction": {
+      "name": "ask_sinh_vien_nghien_cuu_tu_nam_nao",
+      "confidence": 0.4763432741165161
+    }
+  },
+  {
+    "text": "Có các buổi thông tin nào về cơ hội tham gia nghiên cứu không",
+    "intent": "ask_nghien_cuu_vs_GV_ctump",
+    "intent_prediction": {
+      "name": "ask_tham_gia_nghien_cuu_vs_giang_vien",
+      "confidence": 0.27820226550102234
+    }
+  },
+  {
+    "text": "Có thể biết được các bệnh viện hợp tác với trường cho sinh viên thực tập không",
+    "intent": "ask_thuc_tap_nam_cuoi",
+    "intent_prediction": {
+      "name": "ask_benh_vien_lien_ket_voi_truong",
+      "confidence": 0.2765812277793884
+    }
+  },
+  {
+    "text": "Các giảng viên có thể tham gia vào các chương trình nghiên cứu y học không",
+    "intent": "ask_giang_vien_cap_nhat_kien_thuc_y",
+    "intent_prediction": {
+      "name": "ask_nghien_cuu_vs_GV_ctump",
+      "confidence": 0.2767019271850586
+    }
+  },
+  {
+    "text": "Giảng viên có kinh nghiệm thực tế trong lĩnh vực y học không",
+    "intent": "ask_giang_vien_la_bac_si",
+    "intent_prediction": {
+      "name": "ask_trinh_do_cua_giang_vien",
+      "confidence": 0.40440455079078674
+    }
+  },
+  {
+    "text": "Trường có cung cấp hỗ trợ tài chính cho sinh viên tham gia chương trình trao đổi không",
+    "intent": "ask_hop_tac_trao_doi_sv",
+    "intent_prediction": {
+      "name": "ask_trao_doi_sinh_vien",
+      "confidence": 0.3441149890422821
+    }
+  },
+  {
+    "text": "Có thể tham gia chương trình trao đổi trong thời gian học không",
+    "intent": "ask_hop_tac_trao_doi_sv",
+    "intent_prediction": {
+      "name": "ask_trao_doi_sinh_vien",
+      "confidence": 0.33865272998809814
+    }
+  }
+]

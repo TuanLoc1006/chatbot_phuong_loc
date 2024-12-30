@@ -1,0 +1,902 @@
+{
+  "ask_benh_vien_lien_ket_voi_truong": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_thiet_bi_nghien_cuu_hien_dai": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dong_tien_truoc_nhap_hoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_lich_su_nghien_cuu_y_khoa_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_daihoc_lienthong_saudaihoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "ask_ho_tro_sinh_vien_lam_them": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hoc_phi_all": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_tu_thien_y_te": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_cho_do_xe_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dia_chi_cua_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_gio_mo_cua_thu_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dieu_kien_nhan_hoc_bong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 37,
+    "confused_with": {}
+  },
+  "ask_thong_tin_tuyen_sinh_tung_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 51,
+    "confused_with": {}
+  },
+  "ask_yeu_cau_tuyen_sinh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_hoat_dong_ngoai_khoa": {
+    "precision": 1.0,
+    "recall": 0.85,
+    "f1-score": 0.9189189189189189,
+    "support": 20,
+    "confused_with": {
+      "ask_hoat_dong_the_thao_cho_sv": 1,
+      "ask_dang_ky_ctrinh_tinh_nguyen": 1
+    }
+  },
+  "ask_thuc_hanh_benh_vien_nam1": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "ask_clb_cua_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_sinh_vien_tiep_xuc_voi_cong_nghe_y_te": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_kham_benh_mien_phi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_chinh_sach_ho_tro_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dong_tien_han_cuoi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_thuc_tap_sinh_vien_ngoai_tinh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_chi_tieu_tung_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 28,
+    "confused_with": {}
+  },
+  "ask_xep_hang_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hoi_mon_dai_cuong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_doi_tuong_con_nguoi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15,
+    "confused_with": {}
+  },
+  "ask_CTDT_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 232,
+    "confused_with": {}
+  },
+  "ask_can_tin_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_mon_hoc_nganh_duoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_cuu_sinh_vien_co_thanh_tich_gi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_xet_tuyen_hoc_luc_gioi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dao_tao_song_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_giang_vien_ho_tro_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_co_hoi_thuc_tap_benh_vien": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "ask_hop_tac_nghien_cuu_vs_benh_vien": 1
+    }
+  },
+  "ask_dao_tao_nganh_moi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_chat_luong_giang_day": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_tim_tro_gan_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hocphi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 124,
+    "confused_with": {}
+  },
+  "ask_ho_tro_sinh_vien_khoi_nghiep": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_khoa_lon_nhat_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_giang_vien_cap_nhat_kien_thuc_y": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "ask_nghien_cuu_vs_GV_ctump": 1
+    }
+  },
+  "ask_nam_truong_thanh_lap": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_dieu_kien_trao_doi_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_thoi_gian_hoc_y": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_phong_tu_hoc_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_co_hoi_xin_viec_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "ask_to_chuc_hoat_dong_tinh_nguyen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_diadiem_khoa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 680,
+    "confused_with": {}
+  },
+  "ask_phong_cong_nghe_cao_y_hoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hocphi_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 453,
+    "confused_with": {}
+  },
+  "ask_giang_vien_co_bang_quoc_te_khong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_to_chuc_khoa_ki_nang_mem": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_nghien_cuu_vs_GV_ctump": {
+    "precision": 0.7727272727272727,
+    "recall": 0.85,
+    "f1-score": 0.8095238095238095,
+    "support": 20,
+    "confused_with": {
+      "ask_tham_gia_nghien_cuu_vs_giang_vien": 2,
+      "ask_sinh_vien_nghien_cuu_tu_nam_nao": 1
+    }
+  },
+  "ask_chi_phi_sinh_hoat_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_hoc_phi_svien_quocte": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_trung_tam_nghien_cuu_yhoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_cai_thien_ki_nang_hoc_nganh_y": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_thanh_tuu_cua_truong": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "ask_truong_co_to_chuc_su_kien_qte": 1
+    }
+  },
+  "ask_dang_ky_ctrinh_tinh_nguyen": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_cach_dang_ky_xet_tuyen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_giang_vien_la_bac_si": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "ask_trinh_do_cua_giang_vien": 1
+    }
+  },
+  "ask_thong_tin_ky_tuc_xa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "ask_wifi_free": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hello": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "ask_thanh_toan_hoc_phi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "ask_svien_su_dung_cong_nghe_moi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_tham_gia_nghien_cuu_vs_giang_vien": {
+    "precision": 0.6875,
+    "recall": 0.55,
+    "f1-score": 0.6111111111111112,
+    "support": 20,
+    "confused_with": {
+      "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc": 7,
+      "ask_nghien_cuu_vs_GV_ctump": 2
+    }
+  },
+  "ask_tuyen_sinh_dh_sdh_lt": {
+    "precision": 0.8666666666666667,
+    "recall": 1.0,
+    "f1-score": 0.9285714285714286,
+    "support": 52,
+    "confused_with": {}
+  },
+  "ask_co_hoi_hoc_voi_giao_su": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ctump_hop_tac_to_chuc_y_te_TG": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "ask_truong_co_to_chuc_su_kien_qte": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc": {
+    "precision": 0.625,
+    "recall": 0.75,
+    "f1-score": 0.6818181818181818,
+    "support": 20,
+    "confused_with": {
+      "ask_tham_gia_nghien_cuu_vs_giang_vien": 2,
+      "ask_nghien_cuu_vs_GV_ctump": 1
+    }
+  },
+  "ask_su_kien_cong_nghe_y_te": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_hoc_tieng_anh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_trao_doi_voi_sinh_vien_quoc_te_nao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_csvc_cua_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_thi_tuyen_sinh_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_truong_quoc_te_lien_ket_voi_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_quy_ho_tro_nghien_cuu_sv": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_vay_von_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_benh_vien_tuyen_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ki_nang_viet_nghien_cuu": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_sinh_vien_nghien_cuu_tu_nam_nao": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_he_thong_elearning": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_chon_lai_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_hop_tac_trao_doi_sv": {
+    "precision": 0.75,
+    "recall": 0.9,
+    "f1-score": 0.8181818181818182,
+    "support": 20,
+    "confused_with": {
+      "ask_trao_doi_sinh_vien": 2
+    }
+  },
+  "ask_thuc_tap_nam_cuoi": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "ask_benh_vien_lien_ket_voi_truong": 1
+    }
+  },
+  "ask_sinh_vien_co_tham_gia_du_hoc_ngan_han": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "ask_so_luong_khoa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_so_nganh_dao_tao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_thong_tin_hieu_ban_giam_hieu": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 52,
+    "confused_with": {}
+  },
+  "ask_hoat_dong_the_thao_cho_sv": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_quy_trinh_tuyen_sinh_dh_lt_sdh": {
+    "precision": 1.0,
+    "recall": 0.8596491228070176,
+    "f1-score": 0.9245283018867925,
+    "support": 57,
+    "confused_with": {
+      "ask_tuyen_sinh_dh_sdh_lt": 8
+    }
+  },
+  "ask_dao_tao_sdh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_quy_trinh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 87,
+    "confused_with": {}
+  },
+  "ask_tieu_chi_xet_tuyen_moi_nam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_sinh_vien_join_du_an_te_te_cong_dong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_trinh_do_cua_giang_vien": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hoc_phi_hang_nam_tang_khong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_tin_chi_moi_nam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_chuong_trinh_tinh_nguyen_svien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "ask_dao_tao_quoc_te": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_co_hoi_nghien_cuu_sv_ctump": {
+    "precision": 0.9411764705882353,
+    "recall": 0.8,
+    "f1-score": 0.8648648648648648,
+    "support": 20,
+    "confused_with": {
+      "ask_sv_tham_gia_trung_tam_nghien_cuu_yhoc": 2,
+      "ask_nghien_cuu_vs_GV_ctump": 1
+    }
+  },
+  "ask_ki_nang_hoc_tap_nganh_Y": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_trao_doi_sinh_vien": {
+    "precision": 0.8666666666666667,
+    "recall": 0.65,
+    "f1-score": 0.7428571428571429,
+    "support": 20,
+    "confused_with": {
+      "ask_hop_tac_trao_doi_sv": 6,
+      "ask_ho_tro_hoc_phi_svien_quocte": 1
+    }
+  },
+  "ask_so_sanh_hoc_phi_duoc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_CTDT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 59,
+    "confused_with": {}
+  },
+  "ask_ctump_du_an_te_te_cong_dong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_khuon_vien_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_thuc_tap_sinh_vien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_lich_hoc_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_hop_tac_nghien_cuu_vs_benh_vien": {
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1-score": 0.9500000000000001,
+    "support": 20,
+    "confused_with": {
+      "ask_benh_vien_lien_ket_voi_truong": 1
+    }
+  },
+  "ask_sinh_vien_cua_truong_moi_nam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_so_sanh_voi_cac_truong_khac": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_ho_tro_thuc_tap_sinh_vien_y_khoa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_diem_chuan_tung_nganh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "ask_thong_tin_tuyen_sinh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "ask_doi_tuong_tuyen_sinh_dh_lt_sdh": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 28,
+    "confused_with": {}
+  },
+  "ask_mon_hoc_y_duc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "ask_nghien_cuu_hang_nam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "ask_gioi_thieu_truong_ctump": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "accuracy": 0.9885839203303376,
+  "macro avg": {
+    "precision": 0.9834066496621189,
+    "recall": 0.9827243729157604,
+    "f1-score": 0.9824842222386464,
+    "support": 4117
+  },
+  "weighted avg": {
+    "precision": 0.9892099649054314,
+    "recall": 0.9885839203303376,
+    "f1-score": 0.9884706462719507,
+    "support": 4117
+  },
+  "micro avg": {
+    "precision": 0.9885839203303376,
+    "recall": 0.9885839203303376,
+    "f1-score": 0.9885839203303376,
+    "support": 4117
+  }
+}

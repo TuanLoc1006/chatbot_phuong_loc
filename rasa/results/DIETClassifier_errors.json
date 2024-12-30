@@ -1,0 +1,2019 @@
+[
+  {
+    "text": "địa chỉ của khoa y o đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "địa chỉ",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "value": "o đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 12,
+        "end": 18,
+        "confidence_entity": 0.8291551470756531,
+        "role": "ten_khoa",
+        "confidence_role": 0.9770886301994324,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 19,
+        "end": 24,
+        "confidence_entity": 0.9960755705833435,
+        "role": "where",
+        "confidence_role": 0.9991376399993896,
+        "value": "o đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y o đâu nhỉ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 7,
+        "end": 16,
+        "value": "o đâu nhỉ",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 6,
+        "confidence_entity": 0.998880922794342,
+        "role": "ten_khoa",
+        "confidence_role": 0.9993314743041992,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 7,
+        "end": 12,
+        "confidence_entity": 0.710016667842865,
+        "role": "where",
+        "confidence_role": 0.9885884523391724,
+        "value": "o đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa ở vị trí nao",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "value": "vị trí nao",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9945195317268372,
+        "role": "ten_khoa",
+        "confidence_role": 0.9992969036102295,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 24,
+        "confidence_entity": 0.4968392550945282,
+        "role": "where",
+        "confidence_role": 0.9908985495567322,
+        "value": "ở vị trí nao",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa o vi tri nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "value": "vi tri nào",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9901952147483826,
+        "role": "ten_khoa",
+        "confidence_role": 0.9994440674781799,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 13,
+        "confidence_entity": 0.6857382655143738,
+        "role": "where",
+        "confidence_role": 0.9967811107635498,
+        "value": "o",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "ask",
+        "start": 14,
+        "end": 24,
+        "confidence_entity": 0.45796293020248413,
+        "role": "where",
+        "confidence_role": 0.9810091257095337,
+        "value": "vi tri nào",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa điểm của khoa y khoa ở đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "địa điểm",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.9934698343276978,
+        "role": "where",
+        "confidence_role": 0.9992293119430542,
+        "value": "địa điểm",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 13,
+        "end": 24,
+        "confidence_entity": 0.5243319869041443,
+        "role": "ten_khoa",
+        "confidence_role": 0.9757295250892639,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 25,
+        "end": 30,
+        "confidence_entity": 0.99953293800354,
+        "role": "where",
+        "confidence_role": 0.9996813535690308,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa nằm ở đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9947975873947144,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995278120040894,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 21,
+        "confidence_entity": 0.7056829333305359,
+        "role": "where",
+        "confidence_role": 0.9905169606208801,
+        "value": "nằm ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa nam o dau",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "value": "o dau",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9887985587120056,
+        "role": "ten_khoa",
+        "confidence_role": 0.9992584586143494,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 21,
+        "confidence_entity": 0.6738799810409546,
+        "role": "where",
+        "confidence_role": 0.9852250218391418,
+        "value": "nam o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa điểm khoa y khoa nằm ở đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "địa điểm",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 9,
+        "end": 20,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.7395796775817871,
+        "role": "where",
+        "confidence_role": 0.9948329925537109,
+        "value": "địa điểm",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 9,
+        "end": 20,
+        "confidence_entity": 0.9777681231498718,
+        "role": "ten_khoa",
+        "confidence_role": 0.9974465370178223,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 21,
+        "end": 30,
+        "confidence_entity": 0.6362094283103943,
+        "role": "where",
+        "confidence_role": 0.9860095977783203,
+        "value": "nằm ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia diem khoa y khoa nam o dau",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Dia diem",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 9,
+        "end": 20,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "value": "o dau",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 9,
+        "end": 20,
+        "confidence_entity": 0.9953702092170715,
+        "role": "ten_khoa",
+        "confidence_role": 0.9994662404060364,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 21,
+        "end": 30,
+        "confidence_entity": 0.6209251880645752,
+        "role": "where",
+        "confidence_role": 0.9960837364196777,
+        "value": "nam o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia điểm khoa y ở đâu",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.7070262432098389,
+        "role": "where",
+        "confidence_role": 0.9936374425888062,
+        "value": "Dia điểm",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 9,
+        "end": 15,
+        "confidence_entity": 0.9119002819061279,
+        "role": "ten_khoa",
+        "confidence_role": 0.9863246083259583,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 16,
+        "end": 21,
+        "confidence_entity": 0.9997249245643616,
+        "role": "where",
+        "confidence_role": 0.9998171925544739,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa chỉ của y ở đâu",
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.7336689829826355,
+        "role": "where",
+        "confidence_role": 0.988742470741272,
+        "value": "địa chỉ",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 12,
+        "end": 13,
+        "confidence_entity": 0.9986891150474548,
+        "role": "ten_khoa",
+        "confidence_role": 0.9972227811813354,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 14,
+        "end": 19,
+        "confidence_entity": 0.9989520311355591,
+        "role": "where",
+        "confidence_role": 0.9995068311691284,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia chi khoa y khoa o chỗ nao",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "value": "o chỗ nao",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.6416646838188171,
+        "role": "where",
+        "confidence_role": 0.9942322373390198,
+        "value": "Dia chi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 8,
+        "end": 19,
+        "confidence_entity": 0.9835452437400818,
+        "role": "ten_khoa",
+        "confidence_role": 0.9986270666122437,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 20,
+        "end": 29,
+        "confidence_entity": 0.9702943563461304,
+        "role": "where",
+        "confidence_role": 0.9983958601951599,
+        "value": "o chỗ nao",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa dia chi o đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "value": "o đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9976490139961243,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995526671409607,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 19,
+        "confidence_entity": 0.7556558847427368,
+        "role": "where",
+        "confidence_role": 0.9919416904449463,
+        "value": "Dia chi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 20,
+        "end": 25,
+        "confidence_entity": 0.9211063981056213,
+        "role": "where",
+        "confidence_role": 0.9948122501373291,
+        "value": "o đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa y khoa o chỗ nao vậy",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Y khoa",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "value": "o chỗ nao",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.9959477782249451,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995410442352295,
+        "value": "Y khoa",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 12,
+        "end": 25,
+        "confidence_entity": 0.9376222491264343,
+        "role": "where",
+        "confidence_role": 0.9960412979125977,
+        "value": "o chỗ nao vậy",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia chi cua khoa duoc o dau",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Dia chi",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.9929621815681458,
+        "role": "where",
+        "confidence_role": 0.9997836947441101,
+        "value": "Dia chi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 12,
+        "end": 21,
+        "confidence_entity": 0.9988196492195129,
+        "role": "ten_khoa",
+        "confidence_role": 0.9993859529495239,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 22,
+        "end": 27,
+        "confidence_entity": 0.6656955480575562,
+        "role": "where",
+        "confidence_role": 0.9863003492355347,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9977865219116211,
+        "role": "ten_khoa",
+        "confidence_role": 0.9992064833641052,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.8599328398704529,
+        "role": "where",
+        "confidence_role": 0.9933650493621826,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu nhỉ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "value": "ở đâu",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9991722106933594,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995591044425964,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.5630186200141907,
+        "role": "where",
+        "confidence_role": 0.9915764927864075,
+        "value": "ở đâu nhỉ",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở chỗ nào vậy",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "value": "ở chỗ nào",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9993483424186707,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996139407157898,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 23,
+        "confidence_entity": 0.5983976125717163,
+        "role": "where",
+        "confidence_role": 0.9946553707122803,
+        "value": "ở chỗ nào vậy",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc nam o cho nao",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "value": "o cho nao",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9991135001182556,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995207786560059,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở vị trí nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "value": "vị trí nào",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9990536570549011,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996423721313477,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 22,
+        "confidence_entity": 0.6450653076171875,
+        "role": "where",
+        "confidence_role": 0.9887028932571411,
+        "value": "ở vị trí nào",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược nắm o đâu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9993804693222046,
+        "role": "ten_khoa",
+        "confidence_role": 0.9994877576828003,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.7950930595397949,
+        "role": "where",
+        "confidence_role": 0.9732324481010437,
+        "value": "nắm o đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa điểm khoa dược ở chỗ nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "địa điểm",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.9810624718666077,
+        "role": "where",
+        "confidence_role": 0.9994099140167236,
+        "value": "địa điểm",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 9,
+        "end": 18,
+        "confidence_entity": 0.9791772961616516,
+        "role": "ten_khoa",
+        "confidence_role": 0.9984433054924011,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 19,
+        "end": 28,
+        "confidence_entity": 0.7060801982879639,
+        "role": "where",
+        "confidence_role": 0.991388738155365,
+        "value": "ở chỗ nào",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia diem khoa duoc o cho nao",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Dia diem",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.9790055155754089,
+        "role": "where",
+        "confidence_role": 0.9995625615119934,
+        "value": "Dia diem",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 9,
+        "end": 18,
+        "confidence_entity": 0.9970582723617554,
+        "role": "ten_khoa",
+        "confidence_role": 0.9992315769195557,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 19,
+        "end": 28,
+        "confidence_entity": 0.5372147560119629,
+        "role": "where",
+        "confidence_role": 0.9919588565826416,
+        "value": "o cho nao",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa chỉ khoa dược ở chỗ nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "địa chỉ",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 8,
+        "end": 17,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.9283403754234314,
+        "role": "where",
+        "confidence_role": 0.9987357258796692,
+        "value": "địa chỉ",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 8,
+        "end": 17,
+        "confidence_entity": 0.9909919500350952,
+        "role": "ten_khoa",
+        "confidence_role": 0.9988214373588562,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6513718962669373,
+        "role": "where",
+        "confidence_role": 0.9873597025871277,
+        "value": "ở chỗ nào",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Dia chi khoa duoc o cho nao",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Dia chi",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 8,
+        "end": 17,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.9926154613494873,
+        "role": "where",
+        "confidence_role": 0.9997335076332092,
+        "value": "Dia chi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 8,
+        "end": 17,
+        "confidence_entity": 0.9964324235916138,
+        "role": "ten_khoa",
+        "confidence_role": 0.9990591406822205,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.5701708793640137,
+        "role": "where",
+        "confidence_role": 0.9909639358520508,
+        "value": "o cho nao",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu thế",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "value": "ở đâu thế",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9987711310386658,
+        "role": "ten_khoa",
+        "confidence_role": 0.999646782875061,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5125986933708191,
+        "role": "where",
+        "confidence_role": 0.9907656908035278,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o dau the",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "value": "o dau the",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9995747208595276,
+        "role": "ten_khoa",
+        "confidence_role": 0.9997096657752991,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.46030983328819275,
+        "role": "where",
+        "confidence_role": 0.9884210824966431,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu vậy nhỉ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 23,
+        "value": "ở đâu vậy nhỉ",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9995331764221191,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996844530105591,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5575114488601685,
+        "role": "where",
+        "confidence_role": 0.9878824949264526,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o dau vay nhi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 23,
+        "value": "o dau vay nhi",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9994342923164368,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995909333229065,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.6146178245544434,
+        "role": "where",
+        "confidence_role": 0.9892438650131226,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc nam o cho nao",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 23,
+        "value": "nam o cho nao",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9991135001182556,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995207786560059,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o dau nhi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "value": "o dau nhi",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9995228052139282,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996246099472046,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5748399496078491,
+        "role": "where",
+        "confidence_role": 0.9916234612464905,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o cho nao vay",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      },
+      {
+        "start": 10,
+        "end": 23,
+        "value": "o cho nao vay",
+        "entity": "ask",
+        "role": "where"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.99913090467453,
+        "role": "ten_khoa",
+        "confidence_role": 0.9994136095046997,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.7423588037490845,
+        "role": "where",
+        "confidence_role": 0.9862192273139954,
+        "value": "o cho nao",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu thế",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9987711310386658,
+        "role": "ten_khoa",
+        "confidence_role": 0.999646782875061,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5125986933708191,
+        "role": "where",
+        "confidence_role": 0.9907656908035278,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o dau the",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9995747208595276,
+        "role": "ten_khoa",
+        "confidence_role": 0.9997096657752991,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.46030983328819275,
+        "role": "where",
+        "confidence_role": 0.9884210824966431,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược ở đâu vậy nhỉ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9995331764221191,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996844530105591,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5575114488601685,
+        "role": "where",
+        "confidence_role": 0.9878824949264526,
+        "value": "ở đâu",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa duoc o dau vay nhi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9994342923164368,
+        "role": "ten_khoa",
+        "confidence_role": 0.9995909333229065,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.6146178245544434,
+        "role": "where",
+        "confidence_role": 0.9892438650131226,
+        "value": "o dau",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Khoa dược nằm ở chỗ nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Dược",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "khoa_phong",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.998180627822876,
+        "role": "ten_khoa",
+        "confidence_role": 0.9996527433395386,
+        "value": "Dược",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "ask",
+        "start": 10,
+        "end": 23,
+        "confidence_entity": 0.5472449064254761,
+        "role": "where",
+        "confidence_role": 0.9848072528839111,
+        "value": "nằm ở chỗ nào",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "làm sao [đến được] khoa y học cổ truyen",
+    "entities": [
+      {
+        "start": 24,
+        "end": 39,
+        "value": "Y học cổ truyền",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 13,
+        "end": 17,
+        "confidence_entity": 0.61012864112854,
+        "role": "where",
+        "confidence_role": 0.9978512525558472,
+        "value": "được",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 24,
+        "end": 39,
+        "confidence_entity": 0.997848629951477,
+        "role": "ten_khoa",
+        "confidence_role": 0.9984970092773438,
+        "value": "Y học cổ truyền",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "địa điểm của khoa khoa khoa hoc co ban là gì",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "địa điểm",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 18,
+        "end": 38,
+        "value": "Khoa học cơ bản",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.9963189363479614,
+        "role": "where",
+        "confidence_role": 0.9978092312812805,
+        "value": "địa điểm",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 13,
+        "end": 38,
+        "confidence_entity": 0.481447696685791,
+        "role": "ten_khoa",
+        "confidence_role": 0.9793535470962524,
+        "value": "khoa khoa khoa hoc co ban",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "đường đi [đến] khoa khoa khoa hoc cơ bản như thế nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "đường đi",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 20,
+        "end": 40,
+        "value": "Khoa học cơ bản",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.8950859904289246,
+        "role": "where",
+        "confidence_role": 0.9889302849769592,
+        "value": "đường đi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 15,
+        "end": 40,
+        "confidence_entity": 0.49378180503845215,
+        "role": "ten_khoa",
+        "confidence_role": 0.9858880639076233,
+        "value": "khoa khoa khoa hoc cơ bản",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "đường đi tới khoa khoa điều dưỡng",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "đường đi",
+        "entity": "ask",
+        "role": "where"
+      },
+      {
+        "start": 18,
+        "end": 33,
+        "value": "Điều dưỡng",
+        "entity": "khoa_phong",
+        "role": "ten_khoa"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ask",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.5326602458953857,
+        "role": "where",
+        "confidence_role": 0.9549031257629395,
+        "value": "đường đi",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      },
+      {
+        "entity": "khoa_phong",
+        "start": 23,
+        "end": 33,
+        "confidence_entity": 0.9832714200019836,
+        "role": "ten_khoa",
+        "confidence_role": 0.9984366297721863,
+        "value": "Điều dưỡng",
+        "extractor": "DIETClassifier",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  }
+]
